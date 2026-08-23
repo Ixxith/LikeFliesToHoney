@@ -1,8 +1,8 @@
 ---
 marker:
-  - coordinates: 4499, 3141
+  - colour: "#039c4b"
+    coordinates: 4499, 3141
+    icon: game-icons:white-tower
     mapName: World Map
     minZoom: -1
-    icon: game-icons:medieval-village-01
-    colour: "#039c4b"
 ---

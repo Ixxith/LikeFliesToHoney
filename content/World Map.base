@@ -1,7 +1,7 @@
 views:
   - type: leaflet-map
     name: View
-    image: content/assets/World Map.jpg
+    image: /assets/World Map.jpg
     defaultZoom: -1.68
     height: 800
     maxZoom: 7
