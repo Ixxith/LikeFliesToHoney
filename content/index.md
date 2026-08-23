@@ -1,6 +1,11 @@
 ---
-title: Welcome to Quartz
+title: Like Flies to Honey DnD Campaign
 ---
+# Welcome players!
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+## Quick Links
+-  [[World Map]]
+
+
+
+

@@ -1,0 +1,11 @@
+views:
+  - type: leaflet-map
+    name: View
+    image: content/assets/World Map.png
+    defaultZoom: -1.68
+    height: 800
+    maxZoom: 7
+    minZoom: -3
+    zoomDelta: 0.75
+    center: 4390, 3397
+    mapName: World Map
