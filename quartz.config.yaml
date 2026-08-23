@@ -267,16 +267,22 @@ plugins:
       position: beforeBody
       priority: 15
       display: all
-  - source: github:Requiae/quartz-leaflet-bases-plugin
-    enabled: true
-    options:
-      enableCopyTool: false
   - source: "@quartz-community/obsidian-plugin-excalidraw"
     enabled: true
     options:
       enableInteraction: true
       darkMode: auto
       exportPadding: 20
+    order: 50
+  - source: github:quartz-community/bases-page
+    enabled: true
+    options:
+      defaultViewType: table
+      linkResolution: shortest
+  - source: github:Requiae/quartz-leaflet-bases-plugin
+    enabled: true
+    options:
+      enableCopyTool: true
     order: 50
 layout:
   groups:
