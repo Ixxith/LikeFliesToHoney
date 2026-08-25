@@ -6,4 +6,8 @@ marker:
     colour: "#e48873"
     minZoom: -2
 ---
+![[Abyssal Lands.jpg]]
+
 Once beautiful mountain lands, a demonic invasion many hundred years ago turned the land into an ash filled landscape full of dangerous and diabolical creatures. 
+
+Return to [[World Map]]?

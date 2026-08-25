@@ -20,4 +20,4 @@ views:
 
 ```
 
-#map
+#map #worldmap
