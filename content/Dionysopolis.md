@@ -1,6 +1,6 @@
 ---
 marker:
-  - coordinates: 4502, 3143
+  - coordinates: 4474, 3144
     mapName: World Map
     icon: game-icons:white-tower
     colour: "#039c4b"
