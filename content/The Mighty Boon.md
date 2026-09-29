@@ -16,7 +16,9 @@ A prestigious event attended by those with criminal and yet prestigious backgrou
 
 The auction has three parts to it. First a speech from the mysterious leader of the Shifting Face, the Suit. Second, a large feast of rare and delicious meats, vegetables, and expensive alcohol. And finally, the main event, a massive auction of exotic materials, violent weapons, and dangerous magic items. Many of these items have been procured through illegal means, and it is not rare for an attendee or two to be attending in order to bid to reclaim their items.
 
-Such an event usually elicits the interest of many organizations that hunt such criminals, such as the [[Claws of Eryndor]]
+Such an event usually elicits the interest of many organizations that hunt such criminals, such as the [[Claws of Eryndor]].
+
+The party was able to sneak into the party using disguises to pretending to be from the Appicia tribe, who end sentences with grunts. They snuck in through the lost and found, and ended up not picking up a wonderful magical umbrella, but instead made it past the slime trap and into the storage room where they ransacked magical items into their bag of holding before realizing the cannon was located deeper inside.
 
 ```base
 views:

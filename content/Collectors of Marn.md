@@ -1,6 +1,6 @@
 ![[Collectors of Marn.png]]
 
-A group of undead liches and other necromancers that run a large underworld network. They operate the Free City of Marn and are fabulously wealthy, but disorganized with distant divisions getting orders months late, local leaders often too corrupt to follow them. 
+A group of undead liches and other necromancers that run a large underworld network. They operate the [[Free City of Marn]] and are fabulously wealthy, but disorganized with distant divisions getting orders months late, local leaders often too corrupt to follow them. 
 
 The Black Council leads the collectors, but decisions from
 them are rare. Once in awhile they will agree - leading to often
