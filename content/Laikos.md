@@ -1,0 +1,2 @@
+![[Pasted image 20261004205141.png]]
+An adult blue dragon that lives in the [[Spire of the Dragon Cult]], in the [[North Iri Desert]]. Used to raid nearby settlements and merchants, kidnapping them and forcing them into the cult, but now he is lazy and sends his cultists on wyverns to do his bidding instead.

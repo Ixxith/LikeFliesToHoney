@@ -16,7 +16,7 @@ views:
     scale: "0.2"
     height: 800
     unit: km
-    center: 4437, 2443
+    center: 4194, 5996
 
 ```
 
