@@ -20,6 +20,8 @@ Such an event usually elicits the interest of many organizations that hunt such 
 
 The party was able to sneak into the party using disguises to pretending to be from the Appicia tribe, who end sentences with grunts. They snuck in through the lost and found, and ended up not picking up a wonderful magical umbrella, but instead made it past the slime trap and into the storage room where they ransacked magical items into their bag of holding before realizing the cannon was located deeper inside.
 
+They successfully stole the cannon and used it to blow a hole out of the side of the building, escaping out into the city, blowing a hole in the gate (and [[Jenny]]), before escaping via airship out of the nation.
+
 ```base
 views:
   - type: leaflet-map
